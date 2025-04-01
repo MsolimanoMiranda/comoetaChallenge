@@ -1,6 +1,10 @@
 # Bar Cometa  - Video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://share.vidyard.com/watch/n2qk1a6N1mdvHmNXobpTmd?)
+## front-end
+[![Watch the video](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.HhYMJ8o1NXqC-oArJLg4wAHaD7%26pid%3DApi&sp=1743516534T2483f2c18a802bf4304a0a596d15fae770152851e5a0c6517f7022d9e6315144)](https://share.vidyard.com/watch/n2qk1a6N1mdvHmNXobpTmd?)
+
+## backend-end
+[![Watch the video](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F99%2F62%2F11%2F360_F_299621124_vutDKbNwRJG6poJRQQIMYfsc4tJCTO5E.jpg&sp=1743516585Tde681cd440808b4395c97399bae5fe0a6580c8b317b6b0645c65e1b9e4fed084)](https://share.vidyard.com/watch/n2qk1a6N1mdvHmNXobpTmd?)
 
 
 # Bar Cometa - Backend API
